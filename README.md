@@ -15,3 +15,10 @@
 
 1. Displaying the movie based on the year.
 2. Trying to focus on implementing the functionality hence it is not responsive.
+
+## Screens
+<img width="949" alt="image" src="https://github.com/vijay532/TMDBVanillaJS/assets/25348749/ae45fc65-7e75-40b1-a980-65ea64493b40">
+
+<img width="952" alt="image" src="https://github.com/vijay532/TMDBVanillaJS/assets/25348749/707bff7b-e5a1-4b3c-a066-6a792cc37291">
+
+
